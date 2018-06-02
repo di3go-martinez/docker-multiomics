@@ -1,0 +1,3 @@
+[submodule "multiomics"]
+	path = multiomics
+	url = https://gitlab.com/cancergenomics/multiomics.git
