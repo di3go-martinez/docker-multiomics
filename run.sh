@@ -1,6 +1,6 @@
 #!/bin/bash
 
-prod=multiomics-0.0.2-beta.11
+prod=multiomics-0.2.0-beta.1
 tag=$prod
 port=3838
 mode=prod
