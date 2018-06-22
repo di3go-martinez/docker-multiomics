@@ -11,3 +11,7 @@ Descripción de archivos
 	- ejecuta el container de multiomics. tiene dos modos:
 		- prod > corre la última versión productiva, indicada en la variable prod dentro del mismo script. modo por DEFAULT
 		- dev  > corre el container etiquetado como multiomics:dev. Se debe indicar el parámetro --dev
+
+
+Inicializar el submodulo multiomics
+	-	git submodule init && git submodule update  o cuando se clona este repo indicar el flag --recurse-submodules
