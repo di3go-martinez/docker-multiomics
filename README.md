@@ -14,4 +14,11 @@ Descripción de archivos
 
 
 Inicializar el submodulo multiomics
-	-	git submodule init && git submodule update  o cuando se clona este repo indicar el flag --recurse-submodules
+
+	-  git submodule init && git submodule update  o cuando se clona este repo indicar el flag --recurse-submodules
+
+
+Ejecutar 
+
+	- build-and-run-dev.sh para instanciar un container con el contenido de multiomics. en modo desarrollo
+	- build-prod arma la imagen docker productiva
